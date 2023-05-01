@@ -7,7 +7,7 @@ Sinema Bileti Alma ve Filmlere Bakma Otomasyonu
 
 Amacımız ve Cinemate Nedir ?
 
-Sinema bilet alma sürecini dijitalleştirmek ve kullanıcılara daha kolay, uygun, hızlı ve güvenli bir yol sunmak.
+Sinema bilet alma sürecini dijitalleştirmek ve kullanıcılara daha kolay, uygun, hızlı ve güvenli bir yol sunmaktır.
 
 
 CineMate Hedeflerimiz:
@@ -29,6 +29,7 @@ CineMate Hedeflerimiz:
 
 
 2- Benimsenen Yazılım Geliştirme Metodu:
+
 Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, projedeki yapılacak işlerin küçük sprintlere bölünmesi ve bu sprintlerin bir sonraki iş dağılımına kadar bitirilmesi ile yönetilir. Her sprint 4-7 gün arası değişir bu takıma bağlıdır. Her sprint bitiminde yeni sprint oluşturma toplantısı yapılır.Toplantı da yeni dağılımlar yapılması gereken işler paylaştırılır. Sprintler paylaştırılırken efor seviyesi(zorluk seviyesine göre) ekip arkadaşlarımıza adil dağıtılır. Yapılan sprintlerin sonunda alınan feedbackler ile bazı durumlar, problemler fixlenir üzerinde durulur.
 
 
@@ -38,22 +39,22 @@ Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, pr
 
 3- Kullanılan Teknolojiler:
 
->HTML
->CSS 
->Bootstrap
->PHP
->Javascript
->MySQL 
->GitHub 
+HTML
+CSS 
+Bootstrap
+PHP
+Javascript
+MySQL 
+GitHub 
 
 
 
 4- Açık Mektup:
 
 CineMate günümüzde bir çok insanın yaşadığı, aynı koltuk satımından tutun, korkunç seans öncesi sıralarda beklemek yerine, daha yenilikçi problem çözen bir otomasyon yapmaktayız.
-Araştırmayı seven, problemlerden kaçmayı değilde problemlerle yaşayan ve bu problemleri çözerken kendisini geliştiren, geliştirdiği öğrendiği bilgileri paylaşmayı seven yazılım geliştiricileri, grafik tasarımcılarına çağrımızdır:
+Araştırmayı seven, problemlerden kaçmayı değilde problemlerle yaşayan ve bu problemleri çözerken kendisini geliştiren, geliştirdiği öğrendiği bilgileri paylaşmayı seven yazılım geliştiricileri, grafik tasarımcılarına  ve yatırımcılara çağrımızdır:
 
-Bu projeye katkıda bulunmak ve ekibimize katılmak isteyen yazılım geliştiricilerine, grafik tasarımcılarına, görsel artistlere ihtiyacımız bulunmakta. İlgi duyuyor veya bu konuda deneyim sahibi olduğunuzu düşünüyorsanız, Lütfen aşağıdaki ekip arkadaşlarımızdan birine ulaşın.
+Bu projeye katkıda bulunmak, görebildiğimiz ışığı görebilen ve ekibimize katılmak isteyen yazılım geliştiricilerine, grafik tasarımcılarına, görsel artistlere, yatırımcılara ihtiyacımız bulunmakta. İlgi duyuyor veya bu konuda deneyim sahibiyseniz, Lütfen aşağıdaki ekip arkadaşlarımızdan birine ulaşın.
 
 Proje aşamaları iteratif bir yaklaşımla gerçekleştirilecek ve düzenli sprintlerle, eşit eforda adil bir iş bölümü yapılacaktır. Her sprint süresince kullanıcı geri bildirimine dayalı olarak önceden tanımlanmış işler üzerinde çalışılacak ve projenin hızlı ilerlemesini sağlanacaktır.
 
@@ -79,6 +80,6 @@ Görev dağılımımız iş odaklıdır. İhtiyaç halindeki bir menü veyahut b
 
 
 
-
+Yazılım Mühendisliği Dersi Proje Ödevidir.
 
 
