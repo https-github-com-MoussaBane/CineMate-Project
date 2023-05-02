@@ -1,34 +1,35 @@
 # CineMate-Project
+
 Sinema Bileti Alma ve Filmlere Bakma Otomasyonu
 
 
 
-1- Amacımız ve Hedefimiz:
+# 1- Amacımız ve Hedefimiz:
 
-Amacımız ve Cinemate Nedir ?
+     Amacımız ve Cinemate Nedir ?
 
-Sinema bilet alma sürecini dijitalleştirmek ve kullanıcılara daha kolay, uygun, hızlı ve güvenli bir yol sunmaktır.
-
-
-CineMate Hedeflerimiz:
-
-1. Kullanıcıların fiziksel temasla vakit kaybetmeden istedikleri sinema filmlerini listeleme ve seans seçimi yapabilmelerine olanak tanımak.
-2. Kullanıcılara hemen seans öncesi sıra bekletmek yerine otomasyondan koltuk seçip vakit kaybetmeden filmden yararlanma imkanı sağlamak.
-3. Kullanıcılar kişisel hesaplarını oluştururak tekrardan bilgi girmeden sadece koltuk ve seans seçimi ile daha hızlı ve kolay bir şekilde bilet almalarını sağlamak.
-4. Kullanıcılara bir wishlist (istediği filmler listesi) sunmak ve daha sonra bu filmlerin tekrar vizyona girmesini, vizyon öncesi ön bilet satımı fırsatı sağlamak.
-5. Sinema salonları hakkında bilgileri listeleme, lokasyon bilgileri ve iletişim bilgilerini sunarak kullanıcılara kolaylık sağlamak.
-6. Otomasyonun anasayfasında filmlerin kategorik olarak listelenmesi, arama işlevi ve filtreleme özellikleri sunmak.
-7. Kullanıcılara kişisel bilgi güncelleme ve hesap silme imkanı sunmak.
-8. Güvenli bir ödeme süreci sunmak.
-9. Vakitten tasarruf sağlayıp, insanları sıkıcı ve gerici yoğun kuruklarda bekletmemek.
+     Sinema bilet alma sürecini dijitalleştirmek ve kullanıcılara daha kolay, uygun, hızlı ve güvenli bir yol sunmaktır.
 
 
+     CineMate Hedeflerimiz:
+
+     1. Kullanıcıların fiziksel temasla vakit kaybetmeden istedikleri sinema filmlerini listeleme ve seans seçimi yapabilmelerine olanak tanımak.
+     2. Kullanıcılara hemen seans öncesi sıra bekletmek yerine otomasyondan koltuk seçip vakit kaybetmeden filmden yararlanma imkanı sağlamak.
+     3. Kullanıcılar kişisel hesaplarını oluştururak tekrardan bilgi girmeden sadece koltuk ve seans seçimi ile daha hızlı ve kolay bir şekilde bilet almalarını     sağlamak.
+     4. Kullanıcılara bir wishlist (istediği filmler listesi) sunmak ve daha sonra bu filmlerin tekrar vizyona girmesini, vizyon öncesi ön bilet satımı fırsatı sağlamak.
+     5. Sinema salonları hakkında bilgileri listeleme, lokasyon bilgileri ve iletişim bilgilerini sunarak kullanıcılara kolaylık sağlamak.
+     6. Otomasyonun anasayfasında filmlerin kategorik olarak listelenmesi, arama işlevi ve filtreleme özellikleri sunmak.
+     7. Kullanıcılara kişisel bilgi güncelleme ve hesap silme imkanı sunmak.
+     8. Güvenli bir ödeme süreci sunmak.
+     9. Vakitten tasarruf sağlayıp, insanları sıkıcı ve gerici yoğun kuruklarda bekletmemek.
 
 
 
 
 
-2- Benimsenen Yazılım Geliştirme Metodu:
+
+
+# 2- Benimsenen Yazılım Geliştirme Metodu:
 
 Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, projedeki yapılacak işlerin küçük sprintlere bölünmesi ve bu sprintlerin bir sonraki iş dağılımına kadar bitirilmesi ile yönetilir. Her sprint 4-7 gün arası değişir bu takıma bağlıdır. Her sprint bitiminde yeni sprint oluşturma toplantısı yapılır.Toplantı da yeni dağılımlar yapılması gereken işler paylaştırılır. Sprintler paylaştırılırken efor seviyesi(zorluk seviyesine göre) ekip arkadaşlarımıza adil dağıtılır. Yapılan sprintlerin sonunda alınan feedbackler ile bazı durumlar, problemler fixlenir üzerinde durulur.
 
@@ -37,19 +38,21 @@ Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, pr
 
 
 
-3- Kullanılan Teknolojiler:
+# 3- Kullanılan Teknolojiler:
 
-HTML
-CSS 
-Bootstrap
-PHP
-Javascript
-MySQL 
-GitHub 
+* HTML, CSS, Bootstrap: Web sitesi tasarımı ve kullanıcı arayüzü oluşturmak için kullanılacak.
+
+* PHP: Dinamik web sayfaları oluşturmak için kullanılacak.
+
+* MySQL: Veritabanı yönetim sistemi olarak kullanılacak.
+
+* GitHub: Proje yönetimi ve versiyon kontrolü için kullanılacak.
+
+* ChatGPT: Proje hakkında soruları yanıtlamak ve proje geliştirme sürecindeki sorunlara çözüm bulmak için kullanılacak.
 
 
 
-4- Açık Mektup:
+# 4- Açık Mektup:
 
 CineMate günümüzde bir çok insanın yaşadığı, aynı koltuk satımından tutun, korkunç seans öncesi sıralarda beklemek yerine, daha yenilikçi problem çözen bir otomasyon yapmaktayız.
 Araştırmayı seven, problemlerden kaçmayı değilde problemlerle yaşayan ve bu problemleri çözerken kendisini geliştiren, geliştirdiği öğrendiği bilgileri paylaşmayı seven yazılım geliştiricileri, grafik tasarımcılarına  ve yatırımcılara çağrımızdır:
@@ -62,22 +65,22 @@ Proje aşamaları iteratif bir yaklaşımla gerçekleştirilecek ve düzenli spr
 
 
 
-5- Takım Üyelerimiz ve Yetkinlikleri:
+# 5- Takım Üyelerimiz ve Yetkinlikleri:
 
-Oğuzhan Bilal Kahraman - Full Stack Developer - @OguzhanbilalKahraman
+* Oğuzhan Bilal Kahraman - Full Stack Developer - @OguzhanbilalKahraman
 
-Talha Ramadan - Full Stack Developer - 
+* Talha Ramadan - Full Stack Developer - 
 
-Moussa Bane - Full Stack Developer -
+* Moussa Bane - Full Stack Developer - @MoussaBane
 
-Bekir Kurt - Full Stack Developer - 
-
-
+* Bekir Kurt - Full Stack Developer - 
 
 
 
 
-6- Takım Üyelerinin Görev Dağılımları:
+
+
+# 6- Takım Üyelerinin Görev Dağılımları:
 Görev dağılımımız iş odaklıdır. İhtiyaç halindeki bir menü veyahut barın frontend ve backendini ekip arkadaşlarımız birlikte uyum içerisinde sağlar. Takibi ve yapılan işlemlerin anlaşılırlığı kolaylaşır.
 
 
